@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/layout/Menu.css"],"names":[],"mappings":"AAAA,SACE,eACF,CAEA,YACE,kBACF","file":"main.7aaf2ab8.chunk.css","sourcesContent":[".oi-cart {\n  font-size: 1.5em;\n}\n\n.badge-pill {\n  vertical-align: top;\n}\n"]}
