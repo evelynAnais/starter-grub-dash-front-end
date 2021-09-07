@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app-routes">
       <Switch>
-        <Route path="/starter-grub-dash-front-end">
+        <Route exact path="/starter-grub-dash-front-end">
           <Layout />
         </Route>
       </Switch>
