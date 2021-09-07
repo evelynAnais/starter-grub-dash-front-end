@@ -28,7 +28,7 @@ function Menu({ cartCount }) {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav mr-auto">
             <li className={homeClass}>
-              <Link className="nav-link" to="/starter-grub-dash-front-en">
+              <Link className="nav-link" to="/starter-grub-dash-front-end">
                 <span className="oi oi-home" /> Home
               </Link>
             </li>
