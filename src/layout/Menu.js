@@ -33,7 +33,7 @@ function Menu({ cartCount }) {
               </Link>
             </li>
             <li className={dashboardClass}>
-              <Link className="nav-link" to="/dashboard">
+              <Link className="nav-link" to="/starter-grub-dash-front-end/dashboard">
                 <span className="oi oi-dollar" /> Dashboard
               </Link>
             </li>
